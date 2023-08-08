@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/isaac-soares-11b176254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
- ![snake gif](https://github.com/isaacovski/isaacovski/blob/output/github-contribution-grid-snake.gif )
+ ![snake gif](https://github.com/isaacovsk/isaacovski/blob/output/github-contribution-grid-snake.gif )
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
