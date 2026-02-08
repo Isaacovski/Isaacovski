@@ -40,8 +40,7 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 
 - 🚀 Em constante evolução para me tornar desenvolvedor  
 - 🎧 Código + música = foco total
-- 
-
+  
 ---
 
 ⭐ Este repositório acompanha minha jornada de aprendizado e projetos na área de desenvolvimento.
