@@ -19,8 +19,7 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 
 - Projetos freelancer para pequenas empresas em minha região 
 - organização e legibilidade do meu github e portifolio
-- Integrações básicas simulando cenários reais de sistemas  
-- Estudos sobre automação de processos e ferramentas internas  
+- conhecendo novas ferramentas como (TailwindCSS,  Three.js )
 
 ---
 
