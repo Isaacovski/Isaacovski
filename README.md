@@ -1,56 +1,47 @@
-## Olá! 👋
+## Olá! seja bem vindo 👋
 
-Sou Analista de Suporte de TI em transição para a área de **Desenvolvimento de Software**. Moro em Belo Horizonte (MG) e trabalho remotamente. Tenho background em suporte, operações e plataformas, o que me ajuda a criar soluções mais estáveis, bem pensadas e focadas no usuário.
+Sou Analista de Suporte de TI em transição para a área de **Desenvolvimento de Software**. Moro em Belo Horizonte (MG) e Estou atualmente trabalhando remoto na Positivo S+ Latam. Tenho background em suporte, operações e plataformas, o que me ajuda a criar soluções mais estáveis, bem pensadas e focadas no usuário.
 
-Gosto de aprender na prática, construir projetos pequenos e evoluir constantemente como desenvolvedor.
-
+Gosto de aprender na prática, construir projetos pequenos e evoluir constantemente.
 ---
 
 ### Atualmente, estou focado em:
 
-- Fundamentos de **desenvolvimento de software**
-- Lógica de programação e boas práticas
-- Desenvolvimento de aplicações web
-- Integração entre sistemas e APIs
-- Versionamento de código com **Git e GitHub**
+- React.Js
+- Node.Js
+- JavaScript
+- Phyton (Uso bastante o Excel no trabalho, e o estudo é focado na otimização de operações. )
+
 
 ---
 
 ### Algumas coisas que estou construindo / estudando:
 
-- Projetos web para praticar lógica e estrutura de código  
-- Aplicações simples com foco em organização e legibilidade  
+- Projetos freelancer para pequenas empresas em minha região 
+- organização e legibilidade do meu github e portifolio
 - Integrações básicas simulando cenários reais de sistemas  
 - Estudos sobre automação de processos e ferramentas internas  
 
 ---
 
-### Experiência que agrega ao desenvolvimento:
 
-- Vivência com **suporte técnico e atendimento ao usuário**, trazendo visão prática do uso real dos sistemas  
-- Experiência em ambientes corporativos e times ágeis  
-- Contato com **plataformas, CRM, automação e Azure DevOps**  
-- Noções de **segurança da informação** aplicadas ao desenvolvimento  
-
----
-
-### Tecnologias e ferramentas:
+### Tecnologias e ferramentas que domino:
 
 - Git & GitHub  
-- Azure DevOps  
-- Lógica de programação  
-- APIs (conceitos)  
-- Automação e plataformas  
-- Boas práticas de segurança  
+- ServiceNow (1 ano de experiencia ) 
+- Printul (VPN)  
+- React.js  
+- Node.js
+- JavaScript
+- Mysql lite 
 
 ---
 
 ### Curiosidades:
 
 - 🚀 Em constante evolução para me tornar desenvolvedor  
-- 💡 Gosto de entender o “porquê” das coisas, não só o “como”  
-- 🏋️‍♂️ Academia faz parte da minha rotina  
-- 🎧 Código + música = foco total  
+- 🎧 Código + música = foco total
+- 
 
 ---
 
