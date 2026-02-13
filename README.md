@@ -10,16 +10,17 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 - React.Js
 - Node.Js
 - JavaScript
-- Phyton (Uso bastante o Excel no trabalho, e o estudo é focado na otimização de operações. )
 
 
 ---
 
-### Algumas coisas que estou construindo / estudando:
+### Algumas coisas que estou construindo / estudando atualmente:
 
-- Projetos freelancer para pequenas empresas em minha região 
+- Site para meu time na Positivo S+
 - organização e legibilidade do meu github e portifolio
-- conhecendo novas ferramentas como (TailwindCSS,  Three.js )
+- site freelançer para uma advogada da minha ragião
+- site freelançer pra uma loja de roupas tbm na minha região
+- um portifolio novo atualizado
 
 ---
 
@@ -32,7 +33,9 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 - React.js  
 - Node.js
 - JavaScript
-- Mysql lite 
+- Mysql lite
+- c#
+- .net 
 
 ---
 
