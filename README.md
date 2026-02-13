@@ -25,7 +25,7 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 ---
 
 
-### Tecnologias e ferramentas que domino:
+### Tecnologias e ferramentas :
 
 - Git & GitHub  
 - ServiceNow (1 ano de experiencia ) 
