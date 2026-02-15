@@ -16,7 +16,7 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 
 ### Algumas coisas que estou construindo / estudando atualmente:
 
-- Site para meu time na Positivo S+
+- Site para meu Team na Positivo S+
 - organização e legibilidade do meu github e portifolio
 - site freelançer para uma advogada da minha ragião
 - site freelançer pra uma loja de roupas tbm na minha região
