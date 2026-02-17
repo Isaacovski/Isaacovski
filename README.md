@@ -11,7 +11,6 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 - Node.Js
 - JavaScript
 
-
 ---
 
 ### Algumas coisas que estou construindo / estudando atualmente:
