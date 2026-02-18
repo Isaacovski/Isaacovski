@@ -13,12 +13,13 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 
 ---
 
-### Algumas coisas que estou construindo / estudando atualmente:
+### Algumas coisas que estou Trabalhando atualmente:
 
 - Site para meu Team na Positivo S+
 - organização e legibilidade do meu github e portifolio
 - site freelançer para uma advogada da minha ragião
 - site freelançer pra uma loja de roupas tbm na minha região
+- site freelancer para um barbeiro de minha região
 - um portifolio novo atualizado
 
 ---
