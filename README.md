@@ -17,8 +17,8 @@ Gosto de aprender na prática, construir projetos pequenos e evoluir constanteme
 
 - Site para meu Team na Positivo S+ (repositorio privado por segurança)
 - organização e legibilidade do meu github e portifolio
-- site freelançer para uma advogada da minha ragião
-- site freelançer pra uma loja de roupas tbm na minha região
+- site freelancer para uma advogada da minha ragião
+- site freelancer pra uma loja de roupas tbm na minha região
 - site freelancer para um barbeiro de minha região
 - um portifolio novo atualizado
 
